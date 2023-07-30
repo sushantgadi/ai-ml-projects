@@ -1,2 +1,8 @@
 # ai-ml-projects
-Projects during my AI/ML journey
+Projects during my journey of learning AI/ML
+
+## Projects
+
+* Applied Statistics
+* Supervised Learning
+* Ensemble Techniques
