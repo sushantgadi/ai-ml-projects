@@ -20,3 +20,4 @@ Projects during my journey of learning AI/ML
 * Part 2 - Build an AIML model to perform focused marketing by predicting the potential customers who will convert using the historical database.
 
 ### Ensemble Techniques
+#### The project was accomplished by deploying a GUI powered by supervised learning and ensemble modelling techniques to build and train a prediction model for a telecom company. This will help them identify the potential customers who have a higher probability to churn. This will enable the company to understand and pinpoints the patterns of customer churn and increase the focus on customer retention strategies.
