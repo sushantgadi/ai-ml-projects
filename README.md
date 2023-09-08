@@ -21,9 +21,15 @@ Projects during my journey of learning AI/ML
 * Part 1 - Predicting the condition of the patient depending on the received test results on biomechanics features of the patients according to their current conditions. 
 * Part 2 - Build an AIML model to perform focused marketing by predicting the potential customers who will convert using the historical database.
 
+[Project Link](supervised-learning/Supervised_Learning_Project.ipynb)
+
+
+
 ### Ensemble Techniques
 #### The project was accomplished by deploying a GUI powered by supervised learning and ensemble modelling techniques to build and train a prediction model for a telecom company. This will help them identify the potential customers who have a higher probability to churn. This will enable the company to understand and pinpoints the patterns of customer churn and increase the focus on customer retention strategies.
 
+[Project Link](ensemble-techniques/Ensemble_Techniques_Project.ipynb)
 
 ### Unsupervised Learning
 #### Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification.
+[Project Link](unsupervised-learning/unsupervised-learning-project.ipynb)
