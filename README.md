@@ -11,6 +11,8 @@ Projects during my journey of learning AI/ML
 * Part 2 - Analyze past tournament information to make informative investment decisions. 
 * Part 3 - Analyzing the status of various startups that participated in the Startup Battlefield which is the world’s pre-eminent startup competition.``
 
+[Project Link](applied-stats/Applied_Stats_Project.ipynb)
+
 
 ### Supervised Learning
 
@@ -21,3 +23,7 @@ Projects during my journey of learning AI/ML
 
 ### Ensemble Techniques
 #### The project was accomplished by deploying a GUI powered by supervised learning and ensemble modelling techniques to build and train a prediction model for a telecom company. This will help them identify the potential customers who have a higher probability to churn. This will enable the company to understand and pinpoints the patterns of customer churn and increase the focus on customer retention strategies.
+
+
+### Unsupervised Learning
+#### Classified vehicles into different types based on silhouettes which may be viewed from many angles. Used PCA in order to reduce dimensionality and SVM for classification.
